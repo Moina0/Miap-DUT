@@ -17,7 +17,9 @@ Hubert TRUONG
 
 ## Conseil pour la mise en place
 Ce site est encore à un stade expérimental mais vous pouvez dès à présent le tester !
-Afin de pouvoir afficher ce site, vous devez créer une base de donnée nommée expressément "miap-bdd" puis implémenter le fichier "miapsql.txt", qui se trouve dans le dossier SQL, 
-dans votre executeur de site web (uWamp ou Mamp, par exemple). Une fois cela effectué, cliquez sur le dossier "Principal" de votre localhost pour accéder à notre site. 
-Attention ! N'oubliez pas d'insérez le dossier 'PJS4-master' dans le dossier dédié à cela (pour mamp: MAMP > htdocs > 'déposer votre dossier ici').
+Afin de pouvoir afficher ce site, vous devez créer une base de donnée nommée expressément "miap-bdd" puis implémenter le fichier "miapsql.txt", qui se trouve dans le dossier SQL, dans votre executeur de site web (uWamp ou Mamp, par exemple). Une fois cela effectué, cliquez sur le dossier "Principal" de votre localhost pour accéder à notre site. 
+
+Attention ! N'oubliez pas d'insérez le dossier 'PJS4-master' dans le dossier dédié à cela (pour mamp: MAMP > htdocs > 'déposer votre dossier ici
+
+
 Pour en découvrir davantage sur notre projet, je vous invite à lire notre rapport.
